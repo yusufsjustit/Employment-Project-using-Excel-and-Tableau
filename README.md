@@ -3,7 +3,6 @@
 
 Welcome to the **UK Employment Analysis Project**! This project explores employment trends in the UK between **2011 and 2014**, focusing on industries, cities, and sub-industries. 🏢🌍
 
-![Data Visualization Banner](https://via.placeholder.com/1200x400.png?text=Data+Visualization+is+Awesome)
 
 ---
 
